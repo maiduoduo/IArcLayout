@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorPrimary">#EF5362</color> <!-- Grapefruit -->
+    <color name="colorPrimaryDark">#EF5362</color> <!-- Bittersweet -->
+    <color name="colorAccent">#EF5362</color> <!-- Bittersweet -->
+
+    <color name="app_color_theme_alpha_1">#EF5362</color> <!-- Grapefruit -->
+    <color name="app_color_theme_alpha_2">#FE6D4B</color> <!-- Bittersweet -->
+    <color name="app_color_theme_alpha_3">#FFCF47</color> <!-- Sunflower -->
+    <color name="app_color_theme_alpha_8">#AC8FEF</color> <!-- Lavender -->
+    <color name="app_color_theme_alpha_9">#22AC8FEF</color> <!-- Lavender -->
+
+    <color name="light_gray">#808080</color>
+    <color name="light_gray2">#10808080</color>
+    <color name="light_gray1">#F3F3F3</color>
+    <color name="light_white">#33ffffff</color>
+    <color name="white_3A">#3A3A3A</color>
+
+    <color name="alpha_05_black">#0D000000</color>
+    <color name="alpha_10_black">#1A000000</color>
+    <color name="alpha_15_black">#26000000</color>
+    <color name="alpha_20_black">#33000000</color>
+    <color name="alpha_25_black">#40000000</color>
+    <color name="alpha_30_black">#4D000000</color>
+    <color name="alpha_35_black">#59000000</color>
+    <color name="alpha_40_black">#66000000</color>
+    <color name="alpha_45_black">#73000000</color>
+    <color name="alpha_50_black">#80000000</color>
+    <color name="alpha_55_black">#8C000000</color>
+    <color name="alpha_60_black">#99000000</color>
+    <color name="alpha_65_black">#A6000000</color>
+    <color name="alpha_70_black">#B3000000</color>
+    <color name="alpha_75_black">#BF000000</color>
+    <color name="alpha_80_black">#CC000000</color>
+    <color name="alpha_85_black">#D9000000</color>
+    <color name="alpha_90_black">#E6000000</color>
+    <color name="alpha_95_black">#F2000000</color>
+    <color name="white">#ffffff</color>
+
+
+</resources>
