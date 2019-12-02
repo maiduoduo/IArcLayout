@@ -5,17 +5,22 @@
 
 <br/><br/>
 
-[![screen](screenshot/arclayout-optimize.gif)](https://github.com/maiduoduo/IArcLayout/blob/master/screenshot/arclayout-optimize.gif)
+[![screen](https://github.com/maiduoduo/IArcLayout/blob/master/screenshot/arclayout-optimize.gif)](https://github.com/maiduoduo/IArcLayout/blob/master/screenshot/arclayout-optimize.gif)
 
 <br/>
 
 **基于material design用弧形布局探索View设计的新风格和方法**
 
 > 支持对View进行弧度处理，支持嵌入、单View
+>
 > 支持设置弧度值，值越大弧度越大
+>
 > 支持设置弧度的方向，内凹，外凸
+>
 > 支持广告banner的弧度设置，自定义指示器的样式。
+>
 > 其他等请查看演示Demo
+>
 
 
 
@@ -33,9 +38,13 @@
 ---
 
 > 想要改变弧度的方向，内凹还是外凸，还是正常矩形都依赖app:arc_cropDirection参数
+>
 > * 内凹：app:arc_cropDirection="cropInside"
+>
 > * 外凸：app:arc_cropDirection="cropOutside"
+>
 > * 正常：只需app:arc_height参数值设为0dp,即：**app:arc_height="0dp"**,和app:arc_cropDirection参数无关
+>
 
 
 <br/><br/>
@@ -62,7 +71,8 @@
                     <com.youth.banner.Banner
                         android:id="@+id/mBannerInside"
                         android:layout_width="match_parent"
-                        android:layout_height="match_parent"                      app:banner_default_image="@drawable/default_img_guji"
+                        android:layout_height="match_parent"
+                        app:banner_default_image="@drawable/default_img_guji"
                         app:image_scale_type="fit_xy"
                         app:indicator_height="5dp"
                         app:indicator_margin="5dp"
@@ -225,7 +235,7 @@ The new Star Wars movie is coming soon, so I decided to design this cinema app s
 Also, I tried something new: notice, that the white rectangle on the bottom is bended, which makes the design a bit more lively. The app bar has a reduced opacity and the image behind it is blurred to get a unique look.
 I'd appreciate any feedback.
 
- \n
+
 
 新的超体2即将上映，所以我决定设计这个电影应用程序屏幕与超体一海报。
 另外，我尝试了一些新的东西：注意，底部的白色矩形是弯曲的，这使得设计更加生动。应用程序条的不透明度降低，其后面的图像模糊，以获得独特的外观。
@@ -242,9 +252,12 @@ I'd appreciate any feedback.
 ---
 
 **`maiduoduo`**
-邮箱：	[maiduoduo0@163.com](maiduoduo0@163.com)      \n
-博客主页：	[https://blog.csdn.net/Maiduoudo](https://blog.csdn.net/Maiduoudo)     \n
-Github主页：	[https://github.com/maiduoduo/](https://github.com/maiduoduo/)      \n
+
+邮箱：	[maiduoduo0@163.com](maiduoduo0@163.com)
+
+博客主页：	[https://blog.csdn.net/Maiduoudo](https://blog.csdn.net/Maiduoudo)
+
+Github主页：	[https://github.com/maiduoduo/](https://github.com/maiduoduo/)
 
 
 <br/><br/>
