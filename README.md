@@ -1,11 +1,11 @@
 # ArcLayout
 
 
-![image](screenshot/ico_logo.png)
+![image](https://github.com/maiduoduo/IArcLayout/blob/master/screenshot/ico_logo.png)
 
 <br/><br/>
 
-[![screen](screenshot/arclayout-optimize.gif)](https://github.com/maiduoduo/IArcLayout)
+[![screen](screenshot/arclayout-optimize.gif)](https://github.com/maiduoduo/IArcLayout/blob/master/screenshot/arclayout-optimize.gif)
 
 <br/>
 
@@ -73,7 +73,7 @@
 
 <br/>
 
-![image](screenshot/ARC_A.jpg)
+![image](https://github.com/maiduoduo/IArcLayout/blob/master/screenshot/ARC_A.jpg)
 
 <br/><br/>
 
@@ -111,7 +111,7 @@
 
 <br/>
 
-![image](screenshot/arc_d_outer_clip.jpg)
+![image](https://github.com/maiduoduo/IArcLayout/blob/master/screenshot/arc_d_outer_clip.jpg)
 
 <br/><br/>
 
@@ -151,7 +151,7 @@
 
 <br/>
 
-![image](screenshot/ARC_C.jpg)
+![image](https://github.com/maiduoduo/IArcLayout/blob/master/screenshot/ARC_C.jpg)
 
 
 <br/><br/>
@@ -212,7 +212,7 @@
 
 ---
 
-try this demo apk [![Download](screenshot/svg/download.svg)](https://www.lanzous.com/i7sfqgh)
+try this demo apk [![Download](https://github.com/maiduoduo/IArcLayout/blob/master/screenshot/svg/download.svg)](https://www.lanzous.com/i7sfqgh)
 
 <br/><br/>
 
@@ -232,7 +232,7 @@ I'd appreciate any feedback.
 如有任何反馈，我将不胜感激。
 
 
-[![screen](screenshot/preview.png)](screenshot/preview.png)
+[![screen](https://github.com/maiduoduo/IArcLayout/blob/master/screenshot/preview.png)](https://github.com/maiduoduo/IArcLayout/blob/master/screenshot/preview.png)
 
 
 <br/><br/>
