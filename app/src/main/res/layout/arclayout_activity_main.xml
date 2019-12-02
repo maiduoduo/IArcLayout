@@ -15,7 +15,7 @@
         <FrameLayout
             android:id="@+id/rldiagonalLayout"
             android:layout_width="match_parent"
-            android:layout_height="300dp"
+            android:layout_height="400dp"
             android:background="#FFFFFFFF">
 
             <com.imaiduoduo.arclayout.lib.ArcLayout
@@ -26,7 +26,7 @@
                 android:layout_alignParentLeft="true"
                 android:layout_alignParentTop="true"
                 android:elevation="10dip"
-                app:arc_cropDirection="cropOutside"
+                app:arc_cropDirection="cropInside"
                 app:arc_height="20dp"
                 app:arc_position="bottom">
 

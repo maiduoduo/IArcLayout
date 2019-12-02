@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <color name="colorPrimary">#EF5362</color> <!-- Grapefruit -->
-    <color name="colorPrimaryDark">#EF5362</color> <!-- Bittersweet -->
+    <color name="colorPrimary">#FE6D4B</color> <!-- Grapefruit -->
+    <color name="colorPrimaryDark">#000000</color> <!-- Bittersweet -->
     <color name="colorAccent">#EF5362</color> <!-- Bittersweet -->
 
     <color name="app_color_theme_alpha_1">#EF5362</color> <!-- Grapefruit -->
