@@ -262,6 +262,14 @@ Github主页：	[https://github.com/maiduoduo/](https://github.com/maiduoduo/)
 
 <br/><br/>
 
+### THANKS
+
+[florent37](https://github.com/florent37)
+
+若侵联删：	[maiduoduo0@163.com](maiduoduo0@163.com)
+
+<br/>
+
 License
 
 --------
